@@ -5,8 +5,8 @@ class Macvm < Formula
   sha256 "eb0b2172968c105b226c13c83e451d3173da1511dc7dd3401fd332f95ba29362"
   license "MIT"
 
-  depends_on :macos
   depends_on arch: :arm64
+  depends_on :macos
 
   def install
     system "make", "install", "PREFIX=#{prefix}"
