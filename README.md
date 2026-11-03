@@ -1,7 +1,7 @@
-# poTKC Homebrew tap
+# todayporton Homebrew tap
 
 ```bash
-brew install poTKC/tap/macvm
+brew install todayporton/tap/macvm
 ```
 
-See [macvm](https://github.com/poTKC/macvm).
+See [macvm](https://github.com/todayporton/macvm).
