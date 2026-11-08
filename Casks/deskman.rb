@@ -1,6 +1,6 @@
 cask "deskman" do
-  version "0.4.0"
-  sha256 "20559858a63fcc4bbc1e9d7150ea5606ddfb32462a89f7d4463a12eb569b0a2f"
+  version "0.4.1"
+  sha256 "b8c5405ffd0865030123c0f99dbf82b75b411f0a3177261141de39ae7d41d1fa"
 
   url "https://github.com/todayporton/deskman/releases/download/v#{version}/Deskman-#{version}.zip"
   name "Deskman"
